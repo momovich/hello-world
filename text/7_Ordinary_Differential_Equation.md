@@ -7,26 +7,27 @@
 ### Chapter 6. Power Series Method
 
 
-# Chapter 2
-- Bernoulli equation
-- Riccati equation
-- Clairaut equation
-- Lagrange equation
+# Names
+- Chapter 2
+    - Bernoulli equation
+    - Riccati equation
+    - Clairaut equation
+    - Lagrange equation
 
-# Chapter 3
-- Wronskian
-- Euler equation
+- Chapter 3
+    - Wronskian
+    - Euler equation
 
-# Chapter 6
-- Frobenius series
-- Legendre equation
-- Legendre polynomials
-- Rodrigues' formula
-- Bessel's equation
+- Chapter 6
+    - Frobenius series
+    - Legendre equation
+    - Legendre polynomials
+    - Rodrigues' formula
+    - Bessel's equation
 
-# Appendix
-- Picard iteration
-- Lipschitz condition
+- Appendix
+    - Picard iteration
+    - Lipschitz condition
 
 
 # Terms
