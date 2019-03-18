@@ -1,10 +1,10 @@
 # Table of contents
-#### Chapter 1. First Order Ordinary Differential Equations (I)
-#### Chapter 2. First Order Ordinary Differential Equations (II)
-#### Chapter 3. Second Order Linear Differential Equations
-#### Chapter 4. Higher Order Differential Equations
-#### Chapter 5. Operational Methods
-#### Chapter 6. Power Series Method
+- Chapter 1. First Order Ordinary Differential Equations (I)
+- Chapter 2. First Order Ordinary Differential Equations (II)
+- Chapter 3. Second Order Linear Differential Equations
+- Chapter 4. Higher Order Differential Equations
+- Chapter 5. Operational Methods
+- Chapter 6. Power Series Method
 
 
 # Names
